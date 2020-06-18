@@ -29,6 +29,11 @@
   },
   "interests": [
     {
+      "name": "data analytics",
+      "keywords": ["data warehousing", "data visualization", "machine learning"
+      ]
+    },
+    {
       "name": "badminton",
       "keywords": [
       ]
