@@ -14,7 +14,7 @@ summary: A case competition to forecast the US sales of Nintendo Switch in the f
 ---
 
 
-![alt tag](https://github.com/Ze-Long/Ze-Long.github.io/blob/master/images/switch.png)
+<img class="Nintendo Switch" src="/images/switch.png">
 
 The Nintendo Switch is a video game console developed by Nintendo, released worldwide in most regions on March 3, 2017. In this case competition, I was tasked to forecast the US sales of Nintendo Switch in the first week in May.
 
@@ -33,7 +33,7 @@ Long Short-Term Memory
   
 ## Model Performance
 
-![alt tag](https://github.com/Ze-Long/Nintendo-Switch-Sales-Forecasting/blob/master/Images/RandomForest.png)
+<img class="RandomForest Performance" src="/images/RandomForest.png">
 
 ![alt tag](https://github.com/Ze-Long/Nintendo-Switch-Sales-Forecasting/blob/master/Images/XGBoost.png)
 
