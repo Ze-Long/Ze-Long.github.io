@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/switch.jpg
-title: Nintendo Switch Sales Forecasting
+title: Nintendo Switch
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
 date: 2020-04-01
