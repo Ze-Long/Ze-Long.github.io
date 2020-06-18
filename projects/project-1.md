@@ -10,10 +10,9 @@ labels:
   - Python
   - Machine Learning
   - Regression
-summary: I built different regression models with ensemble learning method and neural network techniques. With all these models, I was awarded the first place in this case competition with the most accurate prediction.
+summary: A case competition to forecast the US sales of Nintendo Switch in the first week of May. Won first place with the most accurate model.
 ---
 
-## Nintendo-Switch-Sales-Forecasting
 
 ![alt tag](https://github.com/Ze-Long/Ze-Long.github.io/blob/master/images/switch.png)
 
