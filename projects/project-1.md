@@ -42,19 +42,6 @@ Long Short-Term Memory
 
 ![alt tag](https://github.com/Ze-Long/Nintendo-Switch-Sales-Forecasting/blob/master/Images/LSTM2.png)
 
-
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
 You can learn more at the (https://github.com/Ze-Long/Nintendo-Switch-Sales-Forecasting).
 
 
