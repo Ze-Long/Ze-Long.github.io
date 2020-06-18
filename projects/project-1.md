@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/switch.jpg
 title: Nintendo Switch
-permalink: projects/micromouse
+permalink: projects/Switch
 # All dates must be YYYY-MM-DD format!
 date: 2020-04-01
 labels:
