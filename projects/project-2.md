@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/Aurubis.png
 title: Aurubis
-permalink: projects/vacay
+permalink: projects/Aurubis
 # All dates must be YYYY-MM-DD format!
 date: 2020-03-01
 labels:
