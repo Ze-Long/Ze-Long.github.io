@@ -35,13 +35,13 @@ Long Short-Term Memory
 
 <img class="RandomForest Performance" src="/images/RandomForest.png">
 
-![alt tag](https://github.com/Ze-Long/Nintendo-Switch-Sales-Forecasting/blob/master/Images/XGBoost.png)
+<img class="RandomForest Performance" src="/images/XGBoost.png">
 
-![alt tag](https://github.com/Ze-Long/Nintendo-Switch-Sales-Forecasting/blob/master/Images/MLP2.png)
+<img class="RandomForest Performance" src="/images/MLP2.png">
 
-![alt tag](https://github.com/Ze-Long/Nintendo-Switch-Sales-Forecasting/blob/master/Images/LSTM2.png)
+<img class="RandomForest Performance" src="/images/LSTM2.png">
 
-You can learn more at the (https://github.com/Ze-Long/Nintendo-Switch-Sales-Forecasting).
+You can learn more at the [Nintendo Switch Sales Forecasting](https://github.com/Ze-Long/Nintendo-Switch-Sales-Forecasting).
 
 
 
