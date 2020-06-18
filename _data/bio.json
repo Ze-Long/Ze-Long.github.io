@@ -94,73 +94,42 @@
     {
       "company": "The Wright Star LLC",
       "position": "Data Analyst Intern",
-      "website": "",
-      "startDate": "2015-08-01",
+      "website": "https://www.thewrightstar.com/",
+      "startDate": "2020-04-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Using Python to scrape finance data from Yahoo Finance and Investing.com, helping the company save about 40 percent of its research costs.",
+        "Working with Scikit-Learn to build regression models. Forecasting the revenue and profit of multiple target companies to ensure the return on investment is more than 20%"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "1919.CN Wines & Spirits",
+      "position": "Data Analyst Intern",
+      "website": "http://1919.cn/",
+      "startDate": "2018-09-01",
+      "endDate": "2018-11-30",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Used SQL to retrieve key indicators from databases. Cleaned sales and membership data with Excel.",
+        "Analyzed the sales data of online stores and over 1,000 offline stores.",
+        "Utilized Google Analytics to monitor website data and analyze the potential impact behind the trend.",
+        "Conducted statistical tests (T-test, chi-square test) on more than 50,000 sales data to analyze the impact of different promotion methods on sales amount, and helped the sales team to develop marketing strategies"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "B+ Academic Scholarship",
+      "date": "2016, 2017",
+      "awarder": "Southwestern University of Finance and Economics",
+      "summary": "Scholarships awarded to students in the top 16% of their major."
     },
     {
       "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
+      "date": "2020",
+      "awarder": "Simon Data Analytics Club",
+      "summary": "With the most accurate model, won first place in the case competition forecasting the sales of Nintendo Switch in America."
     }
   ]
 }
