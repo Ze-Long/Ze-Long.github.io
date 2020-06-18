@@ -109,6 +109,18 @@
       ]
     },
     {
+      "company": "Simon Business School",
+      "position": "Grading & Tutoring - Master Level",
+      "website": "https://simon.rochester.edu/",
+      "startDate": "2020-03-01",
+      "endDate": "2020-05-01",
+      "summary": "",
+      "highlights": [
+        "Assisted students to improve their skills in business analytics including SQL, R, and Tableau.",
+        "Regularly met with students and helped them solve academic problems."
+      ]
+    },
+    {
       "company": "1919.CN Wines & Spirits",
       "position": "Data Analyst Intern",
       "website": "http://1919.cn/",
