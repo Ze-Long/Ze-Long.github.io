@@ -2,101 +2,98 @@
   "basics": {
     "name": "Ze Long",
     "label": "Business Analytics Candidate",
-    "picture": "https://Ze-Long.github.io/images/工作照.jpg",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://Ze-Long.github.io/images/photo.jpg",
+    "email": "longzze@outlook.com",
+    "phone": "917-592-8663",
+    "website": "Ze-Long.github.io",
+    "summary": "I am studying for a M.S. in Business Analytics at the University of Rochester. I expect to graduate in December, 2020.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "address": "1331 Mount Hope Ave",
+      "postalCode": "14620",
+      "city": "Rochester",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "New York"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "Ze Long",
+        "url": "https://github.com/Ze-Long"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "Ze Long",
+        "url": "https://linkedin.com/in/ze-long/"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "badminton",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "music",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "video game",
       "keywords": [
       ]
     }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "languages for data analytics",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Python",
+        "R",
+        "SQL",
+        "Visual Basic",
+        "Cypher"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "data visualization",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Tableau",
+        "Excel (Pivot Table)",
+        "Matplotlib",
+        "Seaborn",
+        "ggplot2"
+      ]
+    },
+    {
+      "name": "big data",
+      "level": "",
+      "keywords": [
+        "Hadoop",
+        "Apache Hive",
+        "Apache Spark"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "gpa": "",
-      "courses": [
+      "institution": "University of Rochester",
+      "area": "Business Analytics",
+      "studyType": "M.S.",
+      "startDate": "2019-07-15",
+      "endDate": "present",
+      "gpa": "3.8/4.0",
+      "courses": ["data management", "marketing analytics using R", "predictive analytics with Python", "big data", 
+                  "pricing analytics", "core statistics for MS using R"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "The Wright Star LLC",
+      "position": "Data Analyst Intern",
       "website": "",
       "startDate": "2015-08-01",
       "endDate": "Present",
