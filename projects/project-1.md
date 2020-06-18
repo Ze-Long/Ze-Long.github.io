@@ -1,30 +1,47 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
+image: images/switch.jpg
+title: Nintendo Switch Sales Forecasting
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2020-04-01
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Python
+  - Machine Learning
+  - Regression
+summary: I built different regression models with ensemble learning method and neural network techniques. With all these models, I was awarded the first place in this case competition with the most accurate prediction.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
-</div>
+## Nintendo-Switch-Sales-Forecasting
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+![alt tag](https://github.com/Ze-Long/Ze-Long.github.io/blob/master/images/switch.png)
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+The Nintendo Switch is a video game console developed by Nintendo, released worldwide in most regions on March 3, 2017. In this case competition, I was tasked to forecast the US sales of Nintendo Switch in the first week in May.
 
-Here is some code that illustrates how we read values from the line sensors:
+The following code is run through Jupyter Notebook. I worked with Scikit-Learn, the machine learning framework, to build different regression models to predict the sales amount of Nintendo Switch and evaluated them with cross validation.
+
+## Algorithms Used
+Random Forest
+
+LightGBM
+
+Extreme Gradient Boosting
+
+Multilayer Perceptron
+  
+Long Short-Term Memory
+  
+## Model Performance
+
+![alt tag](https://github.com/Ze-Long/Nintendo-Switch-Sales-Forecasting/blob/master/Images/RandomForest.png)
+
+![alt tag](https://github.com/Ze-Long/Nintendo-Switch-Sales-Forecasting/blob/master/Images/XGBoost.png)
+
+![alt tag](https://github.com/Ze-Long/Nintendo-Switch-Sales-Forecasting/blob/master/Images/MLP2.png)
+
+![alt tag](https://github.com/Ze-Long/Nintendo-Switch-Sales-Forecasting/blob/master/Images/LSTM2.png)
+
 
 ```js
 byte ADCRead(byte ch)
