@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/switch.jpg
+image: images/switch.png
 title: Nintendo Switch Sales Forecasting
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
