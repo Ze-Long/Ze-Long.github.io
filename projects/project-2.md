@@ -1,25 +1,21 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
+image: images/Aurubis.png
+title: Aurubis
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2020-03-01
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Tableau
+  - Python
+  - Data Visualization
+  - Machine Learning
+summary: A business analytics project to consult with Aurubis Buffalo and help them improve model accuracy.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/Aurubis.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+Aurubis AG (formerly Norddeutsche Affinerie AG) is the largest copper producer in Europe (the second largest in the world) and the largest copper recycler worldwide. In this project, our team aimed to improve the accuracy of predicted yield in Aurubis Buffalo. We created Tableau dashboard to explore the material and operation data and used Python to build different models and machine learning interface.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+In this project I gained experience with data cleaning, feature engineering, and predictive analysis using Tableau and Python. At last, the optimal model improved about 45.7% based on the original model, and the mean square error decreased to less than 3%.
