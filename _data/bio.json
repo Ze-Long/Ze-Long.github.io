@@ -120,16 +120,22 @@
   ],
   "awards": [
     {
-      "title": "B+ Academic Scholarship",
-      "date": "2016, 2017",
-      "awarder": "Southwestern University of Finance and Economics",
-      "summary": "Scholarships awarded to students in the top 16% of their major."
-    },
-    {
       "title": "First place",
       "date": "2020",
       "awarder": "Simon Data Analytics Club",
       "summary": "With the most accurate model, won first place in the case competition forecasting the sales of Nintendo Switch in America."
+    },
+    {
+      "title": "Outstanding Student Leader",
+      "date": "2018",
+      "awarder": "Southwestern University of Finance and Economics",
+      "summary": "Led an 80-people organization to maintain and update student portal. Operated an official account on social media with more than 20,000 followers."
+    },
+    {
+      "title": "B+ Academic Scholarship",
+      "date": "2016, 2017",
+      "awarder": "Southwestern University of Finance and Economics",
+      "summary": "Scholarships awarded to students in the top 16% of their major."
     }
   ]
 }
