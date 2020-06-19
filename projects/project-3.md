@@ -1,15 +1,16 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/HELOC.jpg
+title: HELOC
+permalink: projects/HELOC
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2019-12-01
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Algorithm
+  - Machine Learning
+  - Streamlit
+summary: A course project I've done for home equity line of credit risk analysis.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
