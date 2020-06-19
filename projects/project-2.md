@@ -22,6 +22,6 @@ In this project I gained experience with data cleaning, feature engineering, and
 
 ## Tableau Dashboard
 
-<img class="RandomForest Performance" src="/images/Aurubis Dashboard1.png">
+<img class="RandomForest Performance" src="/images/Aurubis Dashboard.png">
 
 Learn more about this at the [Aurubis Buffalo Manufacturing Operation Project](https://github.com/Ze-Long/Aurubis-Buffalo).
