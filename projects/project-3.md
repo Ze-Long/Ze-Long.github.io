@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/HELOC.jpg
+image: images/Home.png
 title: HELOC
 permalink: projects/HELOC
 # All dates must be YYYY-MM-DD format!
